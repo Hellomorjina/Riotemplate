@@ -1,0 +1,41 @@
+@media only screen and (max-width:575px) {
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:809px) {
+  .first_section{
+    margin:15px 30px;
+  }
+  .first_section h1{
+    font-size:40px;
+    font-weight:700;
+    font-family: "Roboto", sans-serif; 
+    color: rgb(32, 43, 56);
+    text-align: center;
+
+  }
+
+  .horo {
+     padding-left: 30px;
+     padding-right: 30px;
+     margin: 0 auto;
+}
+.scroll_conntaner {
+
+  overflow:none;
+
+}
+ }
+
